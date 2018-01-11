@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Thu Jan 11 09:58:44 2018
+# Process ID: 3132
+# Current directory: F:/programing/Verilog/CPU_RISCV/CPU_RISCV.runs/synth_1
+# Command line: vivado.exe -log min_sopc_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source min_sopc_tb.tcl
+# Log file: F:/programing/Verilog/CPU_RISCV/CPU_RISCV.runs/synth_1/min_sopc_tb.vds
+# Journal file: F:/programing/Verilog/CPU_RISCV/CPU_RISCV.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source min_sopc_tb.tcl -notrace

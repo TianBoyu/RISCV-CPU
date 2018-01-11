@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Wed Dec 13 10:15:29 2017
+# Process ID: 10556
+# Current directory: F:/programing/Verilog/CPU_RISCV
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15964 F:\programing\Verilog\CPU_RISCV\CPU_RISCV.xpr
+# Log file: F:/programing/Verilog/CPU_RISCV/vivado.log
+# Journal file: F:/programing/Verilog/CPU_RISCV\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/programing/Verilog/CPU_RISCV/CPU_RISCV.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.3/data/ip'.
+INFO: [IP_Flow 19-2338] Canceling the changes to the IP catalog. Reverting the catalog back to its previous state.
+INFO: [IP_Flow 19-2340] The IP catalog has been returned to its previous state.
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Dec 13 10:16:00 2017...
